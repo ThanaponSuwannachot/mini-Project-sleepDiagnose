@@ -19,10 +19,10 @@ Actigraphy is a validated method of objectively measuring sleep parameters and a
 ปัญหาสุขภาพที่เกี่ยวกับระบบทางเดินหายใจ อาการหายใจผิดปกติ เป็นอันตรายใกล้ตัวที่ไม่ควรมองข้าม เนื่องจากอาการเหล่านี้ บางครั้งอาจไม่ได้บ่งบอกอาการของโรคอย่างชัดเจน เช่น อาการหยุดหายใจขณะหลับ ที่เป็นปัญหาต่อสุขภาพที่เกิดจากการนอนกรน เป็นต้น ซึ่งการป้องกันรักษาหรือการดูแลตนเองจากปัญหาสุขภาพเหล่านี้ อาจมีศัพท์ทางการแพทย์ที่ใช้เรียกหรือใช้ทับศัพท์อยู่หลายคำ ซึ่งหลายท่านอาจไม่ทราบความหมาย เช่น Sleep Apnea คำนี้คืออะไร หาคำตอบได้จากบทความต่อไปนี้
 
 ![](https://paper-attachments.dropbox.com/s_E070B99CBE1E1D919C276A11170FC796926E829257EA7669DE2940C8EBDCE03B_1636346845391_image.png)
-
+## SLEEP APNEA DETECTTION
 ![](https://paper-attachments.dropbox.com/s_E070B99CBE1E1D919C276A11170FC796926E829257EA7669DE2940C8EBDCE03B_1636346671313_image.png)
 
-
+#SLEEP DIAGNOSE DEVICE
 ในโปรเจคนี้ใช้การวัดอุณหภมิและความชื้น(BMP280) และวัดการขยับของร่างกาย(MPU6050)จากบอร์ดCucomberRs ของบริษัท Gravitech 
 
 ![](https://paper-attachments.dropbox.com/s_E070B99CBE1E1D919C276A11170FC796926E829257EA7669DE2940C8EBDCE03B_1636345783604_image.png)
