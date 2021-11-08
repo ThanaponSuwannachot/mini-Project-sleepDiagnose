@@ -22,7 +22,7 @@ Actigraphy is a validated method of objectively measuring sleep parameters and a
 ## SLEEP APNEA DETECTTION
 ![](https://paper-attachments.dropbox.com/s_E070B99CBE1E1D919C276A11170FC796926E829257EA7669DE2940C8EBDCE03B_1636346671313_image.png)
 
-#SLEEP DIAGNOSE DEVICE
+## SLEEP DIAGNOSE DIVICE
 ในโปรเจคนี้ใช้การวัดอุณหภมิและความชื้น(BMP280) และวัดการขยับของร่างกาย(MPU6050)จากบอร์ดCucomberRs ของบริษัท Gravitech 
 
 ![](https://paper-attachments.dropbox.com/s_E070B99CBE1E1D919C276A11170FC796926E829257EA7669DE2940C8EBDCE03B_1636345783604_image.png)
